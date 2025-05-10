@@ -1,93 +1,103 @@
 # Simple Floating Buttons
 
-**Plugin WordPress giúp thêm các nút Liên hệ và Cuộn lên đầu trang (Back to Top) nổi một cách đơn giản và hiệu quả.**
+**A simple and effective WordPress plugin to add floating Contact and Back to Top buttons.**
 
-` và thay link hình ảnh của bạn vào -->
-## Mô tả
+## Description
 
-Bạn đang tìm kiếm một giải pháp đơn giản để thêm các nút liên hệ tiện lợi (như gọi điện, Zalo, Messenger, v.v.) và nút cuộn lên đầu trang cho website WordPress của mình mà không cần cài đặt nhiều plugin riêng lẻ hoặc tự code phức tạp?
+Want to provide your visitors with quick contact channels and a convenient scroll-to-top button right on your WordPress website? The **Simple Floating Buttons** plugin version 1.0 offers a simple and clean solution.
 
-Plugin **Simple Floating Buttons** là câu trả lời dành cho bạn. Chúng tôi tích hợp các nút nổi (floating buttons) thiết yếu này vào làm một, giúp bạn tiết kiệm thời gian, giữ cho website gọn gàng và cải thiện trải nghiệm điều hướng cho khách truy cập. Cài đặt, tùy chỉnh dễ dàng chỉ trong vài phút!
+This plugin integrates the 4 most popular contact button types (Call, Zalo, Email, Messenger) along with a Back to Top button into a single plugin. Making it easy for you to add these essential floating function buttons without installing multiple individual plugins or writing complex code yourself. **Crucially, enabling/disabling each button or the entire plugin is incredibly simple!**
 
-## Thông tin Plugin
+## Plugin Information
 
-* **Tên Plugin:** Simple Floating Buttons
-* **Phiên bản ổn định:** 1.0. **Lưu ý:** Để có thông tin phiên bản chính xác nhất, vui lòng kiểm tra trực tiếp trong file chính của plugin (`simple-floating-buttons.php` hoặc tên file chính bạn đặt) hoặc trên trang plugin tại WordPress.org khi có.
-* **Tác giả:** Binhnn
-* **Trang web Tác giả:** https://binhnn.dev
-* **Trang web Plugin:** [Link đến trang plugin trên WordPress.org - Khi plugin được duyệt. Bỏ dòng này nếu chưa có.]
-* **Yêu cầu phiên bản WordPress tối thiểu:** 5.0
-* **Yêu cầu phiên bản PHP tối thiểu:** 7.4
-* **Tương thích đến phiên bản WP:** Tất cả phiên bản
-* **Giấy phép:** GPL v2 hoặc mới hơn (Xem mục "Giấy phép" bên dưới để biết chi tiết).
+* **Plugin Name:** Simple Floating Buttons
+* **Stable Version:** 1.0.0 (This is the initial version)
+* **Author:** Binhnn
+* **Author URI:** https://binhnn.dev/
+* **Plugin URI:** [Link to your plugin page on WordPress.org - When the plugin is approved. Remove this line if not applicable.]
+* **Requires at least:** 5.0
+* **Requires PHP:** 7.4
+* **Compatible up to:** 6.8.1 (Tested with v1.0)
+* **License:** GPL v2 or later (See the "License" section below).
 
-## Tính năng
+## Features (Version 1.0)
 
-* **Nút Liên hệ Đa dạng & Tùy chỉnh:**
-    * Hỗ trợ nhiều kênh liên lạc phổ biến: Điện thoại (Call), Email, SMS, Zalo, Messenger (Facebook),..v và các liên kết tùy chỉnh khác.
-    * Thêm không giới hạn số lượng các nút liên hệ khác nhau.
-    * Thiết lập thông tin liên hệ trực tiếp trong cài đặt plugin.
+* **4 Popular Contact Button Types:** Easily add floating buttons for Call, Zalo, Email, and Messenger (Facebook).
+* **Contact Button Customization:**
+    * Set contact information (phone number, Zalo/Messenger ID, email address) directly in the settings.
+    * Customize individual button colors or apply a common theme. (planned for future updates)
+    * **Easily enable/disable individual contact buttons.**
+* **Back to Top Button:**
+    * Activate or deactivate the Back to Top button with a single click.
+    * Smooth page scrolling effect.
+* **Position Customization:**
+    * Buttons display fixed on the screen (floating).
+    * Choose the overall display position for the button group (e.g., bottom right/left corner).
+    * Responsive Support: Displays well on all devices (Desktop, Tablet, Mobile).
+* **Toggle Entire Plugin:** Option to quickly enable or disable the entire plugin functionality.
+* **Simple & Optimized:** Intuitive, user-friendly settings interface in the WordPress admin. No coding required. Lightweight and optimized, won't slow down your website. Compatible with most WordPress Themes and Plugins.
 
-* **Nút Cuộn lên đầu trang (Back to Top) Mượt mà:**
-    * Kích hoạt hoặc vô hiệu hóa nút Back to Top chỉ với một click.
+## Screenshots
 
+To see the settings interface and how the buttons (Call, Zalo, Email, Messenger, Back to Top) appear on the website in version 1.0, please refer to the screenshots in the [screenshots folder](link_to_your_screenshots_folder_on_repo) within this repository or on the plugin page at WordPress.org (when available).
 
-* **Dễ dàng Sử dụng và Tối ưu:**
-    * Giao diện cài đặt trực quan, thân thiện trong trang quản trị WordPress. Không yêu cầu kiến thức về code.
-    * Cài đặt và cấu hình chỉ trong vài phút.
-    * Plugin nhẹ, được tối ưu hiệu suất, không làm chậm tốc độ tải trang của website.
-    * Tương thích rộng rãi với hầu hết các Themes và Plugins phổ biến trên WordPress.
+## Installation
 
+There are three main ways to install the Simple Floating Buttons plugin:
 
-## Cài đặt
+1.  **Via WordPress Admin (Most Recommended):**
+    * Log in to your WordPress admin area (requires WP 5.0 or higher).
+    * Navigate to `Plugins` > `Add New`.
+    * In the search box, type "Simple Floating Buttons".
+    * When the plugin appears in the search results, click the `Install Now` button.
+    * After the installation is complete, click the `Activate` button.
 
-Có ba cách chính để cài đặt plugin Simple Floating Buttons:
+2.  **Upload the .zip File via Admin:**
+    * Download the plugin's .zip file version 1.0 from the WordPress.org repository (once approved) or from this GitHub page (if you provide releases).
+    * Log in to your WordPress admin area (requires WP 5.0 or higher).
+    * Navigate to `Plugins` > `Add New`.
+    * Click the `Upload Plugin` button at the top of the page.
+    * Choose the .zip file you downloaded and click `Install`.
+    * After the installation is complete, click `Activate`.
 
-1.  **Qua trang quản trị WordPress (Cách phổ biến nhất):**
-    * Đăng nhập vào trang quản trị WordPress của bạn.
-    * Vào mục `Plugins` > `Cài mới` (Add New).
-    * Tại ô tìm kiếm, gõ "Simple Floating Buttons".
-    * Khi plugin hiển thị trong kết quả tìm kiếm, nhấn nút `Cài đặt` (Install Now).
-    * Sau khi cài đặt xong, nhấn nút `Kích hoạt` (Activate).
+3.  **Via FTP/SFTP:**
+    * Extract the plugin's .zip file version 1.0 on your computer.
+    * Use an FTP/SFTP client (like FileZilla, WinSCP) to connect to your hosting server.
+    * Upload the entire extracted plugin folder to the `wp-content/plugins/` directory on your hosting.
+    * Log in to your WordPress admin area (requires WP 5.0 or higher).
+    * Navigate to `Plugins` > `Installed Plugins`.
+    * Find the "Simple Floating Buttons" plugin in the list and click `Activate`.
 
-2.  **Tải lên file .zip qua trang quản trị:**
-    * Tải xuống file nén (.zip) của plugin từ kho WordPress.org (khi plugin được duyệt) hoặc từ trang GitHub này (nếu bạn cung cấp bản phát hành).
-    * Đăng nhập vào trang quản trị WordPress.
-    * Vào mục `Plugins` > `Cài mới` (Add New).
-    * Nhấn nút `Tải Plugin lên` (Upload Plugin) ở đầu trang.
-    * Chọn file .zip bạn vừa tải xuống và nhấn `Cài đặt`.
-    * Sau khi cài đặt xong, nhấn nút `Kích hoạt`.
+## Usage / Configuration
 
-3.  **Qua FTP/SFTP:**
-    * Giải nén file .zip của plugin vào máy tính của bạn.
-    * Sử dụng phần mềm FTP/SFTP (như FileZilla, WinSCP) để kết nối với máy chủ hosting của bạn.
-    * Upload toàn bộ thư mục plugin đã giải nén vào đường dẫn `wp-content/plugins/` trên hosting.
-    * Đăng nhập vào trang quản trị WordPress.
-    * Vào mục `Plugins` > `Các Plugin đã cài đặt` (Installed Plugins).
-    * Tìm plugin "Simple Floating Buttons" trong danh sách và nhấn `Kích hoạt`.
+After the plugin is successfully activated, you can configure your floating buttons:
 
-## Hướng dẫn Sử dụng / Cấu hình
+1.  Log in to your WordPress admin area.
+2.  Find the plugin's settings menu named **"Simple Floating Buttons"** within your WordPress admin area.
+3.  Click on that menu to access the plugin's settings page.
+4.  Here, you will find the intuitive options to:
+    * Enable/disable the entire plugin.
+    * Set up and enable/disable individual Call, Zalo, Email, Messenger buttons.
+    * Configure the Back to Top button (enable/disable, appearance).
+    * Choose the overall display position for the button group.
+5.  Remember to click `Save Changes` after finishing your configuration.
 
-Sau khi plugin được kích hoạt thành công, bạn có thể cấu hình các nút nổi của mình bằng cách:
+## Contributing
 
-1.  Đăng nhập vào trang quản trị WordPress.
-2.  Tìm menu cài đặt của plugin trong sidebar bên trái. (Ví dụ: có thể là trong `Cài đặt > Simple Floating Buttons`, `Giao diện > Simple Floating Buttons`, hoặc một menu cấp cao mới).
-    * **[Quan trọng]:** Sau khi code, bạn cần cập nhật chính xác đường dẫn menu cài đặt tại đây.
-3.  Nhấn vào menu đó để truy cập trang cài đặt của plugin.
-4.  Tại đây, bạn sẽ tìm thấy các tùy chọn trực quan để thêm, chỉnh sửa, xóa các nút liên hệ, cấu hình nút Back to Top, chọn vị trí hiển thị, màu sắc và các tùy chọn khác.
-5.  Nhớ nhấn `Lưu thay đổi` sau khi hoàn tất cấu hình.
+I welcome contributions to help improve the Simple Floating Buttons plugin!
 
-## Đóng góp
+* **Bug Reports:** If you find any bugs, please open a new Issue on this GitHub repository and provide as much detail as possible (plugin version 1.0, WordPress version 5.0+, other active themes/plugins, steps to reproduce the bug).
+* **Feature Requests:** If you have ideas for new features (beyond the current 4 types), please open a new Issue. Note that more advanced features may be considered for versions after 1.0.
+* **Code Contributions:** If you wish to contribute code (fix bugs, improve existing features in v1.0), please fork the repository, create a new branch for your work, and submit a Pull Request. I will review and merge your code.
 
-Chúng tôi rất vui khi nhận được sự đóng góp từ cộng đồng để giúp plugin **Simple Floating Buttons** ngày càng tốt hơn!
+## License
 
-* **Báo lỗi (Bug Reports):** Nếu bạn tìm thấy bất kỳ lỗi nào, vui lòng mở một Issue mới trên GitHub repository này và cung cấp thông tin chi tiết nhất có thể (phiên bản plugin, phiên bản WordPress, theme/plugin khác đang dùng, các bước tái hiện lỗi).
-* **Đề xuất tính năng (Feature Requests):** Nếu bạn có ý tưởng về tính năng mới muốn thêm vào plugin, hãy mở một Issue mới và mô tả chi tiết ý tưởng của bạn.
-* **Đóng góp code:** Nếu bạn muốn đóng góp code (sửa lỗi, thêm tính năng), vui lòng fork repository, tạo một branch mới cho công việc của bạn, và gửi Pull Request. Chúng tôi sẽ xem xét và merge code của bạn.
+The **Simple Floating Buttons** plugin is released under the GNU General Public License (GPL) version 2 or later. This means you are free to use, study, share, and modify the plugin.
 
-## Giấy phép (License)
+See the full license text in the `LICENSE.txt` file (if included in the repository) or at the official GPL website: [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html).
 
-Plugin **Simple Floating Buttons** được phát hành dưới Giấy phép Công cộng GNU (General Public License - GPL) phiên bản 2 hoặc mới hơn. Điều này có nghĩa là bạn được tự do sử dụng, nghiên cứu, chia sẻ và sửa đổi plugin.
+## Links
 
-Bạn có thể xem toàn bộ nội dung giấy phép trong file `LICENSE.txt` (nếu có trong repository) hoặc tại trang web chính thức của GPL: [https://www.gnu.org/licenses/gpl-2.0.html](https://www.gnu.org/licenses/gpl-2.0.html).
-
+* **GitHub Repository:** [Replace with the link to *your* GitHub repository]
+* **WordPress.org Plugin Page:** [Replace with the link to *your* plugin page on WordPress.org - When the plugin is approved and public. Remove this line if not applicable.]
+* **Author Website:** https://binhnn.dev/

@@ -98,6 +98,6 @@ See the full license text in the `LICENSE.txt` file (if included in the reposito
 
 ## Links
 
-* **GitHub Repository:** [Replace with the link to *your* GitHub repository]
-* **WordPress.org Plugin Page:** [Replace with the link to *your* plugin page on WordPress.org - When the plugin is approved and public. Remove this line if not applicable.]
+* **GitHub Repository:** [https://github.com/niemtinlacatbui/Simple-Floating-Buttons]
+* **WordPress.org Plugin Page:** 
 * **Author Website:** https://binhnn.dev/

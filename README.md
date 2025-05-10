@@ -39,7 +39,7 @@ This plugin integrates the 4 most popular contact button types (Call, Zalo, Emai
 
 ## Screenshots
 
-To see the settings interface and how the buttons (Call, Zalo, Email, Messenger, Back to Top) appear on the website in version 1.0, please refer to the screenshots in the [screenshots folder](./images/plugin.png) within this repository or on the plugin page at WordPress.org (when available).
+To see the settings interface and how the buttons (Call, Zalo, Email, Messenger, Back to Top) appear on the website in version 1.0, please refer to the screenshots in the [screenshots folder](./images/plugin.PNG) within this repository or on the plugin page at WordPress.org (when available).
 
 ## Installation
 
